@@ -1,6 +1,8 @@
 # جریان استاندارد Review & Approval
 
-QA Engineer | تأیید نهایی
-Security Engineer - Security Review | امنیت
-UI_UX Designer Review | بررسی رابط/تجربه کاربریامنیت
-Tech Lead - Code Quality Review | تمیزی کد
+| Role  | Description |
+| ------------- |:-------------:|
+QA Engineer | تأیید نهایی |
+Security Engineer | امنیت |
+UI/UX Review | رابط / تجربه کاربری |
+Tech Lead | تمیزی کد |
